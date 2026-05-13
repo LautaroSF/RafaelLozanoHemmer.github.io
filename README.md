@@ -1,2 +1,5 @@
-# RafaelLozanoHemmer.github.io
-Interactividad, espacio público y arte tecnológico.
+Lautaro Simon Flor
+
+Primer Parcial - Informática General
+
+Artes Multimediales - UNA
